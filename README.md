@@ -23,4 +23,4 @@ Bu EDA projesi, ["customer-shopping-trend"](https://www.kaggle.com/datasets/iams
 17. **Müşteri yaşları ile satın alınan ürün kategorisi arasında bir ilişki var mı?**
 18. **Ortalama satın alma tutarı erkek ve kadın müşteriler arasında nasıl farklılık gösterir?**
 
-Bu sorulara verilen yanıtlar, müşteri alışveriş trendlerini daha iyi anlamak ve işletme stratejilerini geliştirmek için kullanılabilir. Projenin ayrıntılarına ve analiz sonuçlarına daha fazla bilgi için lütfen Jupyter Notebook dosyasını inceleyin.
+Bu sorulara verilen yanıtlar, müşteri alışveriş trendlerini daha iyi anlamak ve işletme stratejilerini geliştirmek için kullanılabilir. Projenin ayrıntılarına ve analiz sonuçlarına erişmek ve daha fazla bilgi almak için lütfen Jupyter Notebook dosyasını inceleyin.
