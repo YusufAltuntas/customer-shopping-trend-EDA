@@ -1,6 +1,8 @@
-**Customer Shopping Trend EDA Projesi**
+![](https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/buying-patterns.jpg?width=595&height=400&name=buying-patterns.jpg)
 
-Bu EDA projesi, "customer-shopping-trend" adlı veri seti üzerinde yapılmıştır. Veri seti, müşteri alışveriş davranışlarını analiz etmek için çeşitli değişkenler içermektedir. Proje kapsamında, veri setindeki çeşitli değişkenler incelenmiş ve aşağıdaki sorulara yanıt aranmıştır:
+### **Customer Shopping Trend EDA Projesi**
+
+Bu EDA projesi, ["customer-shopping-trend"](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset) adlı veri seti üzerinde yapılmıştır. Veri seti, müşteri alışveriş davranışlarını analiz etmek için çeşitli değişkenler içermektedir. Proje kapsamında, veri setindeki çeşitli değişkenler incelenmiş ve aşağıdaki sorulara yanıt aranmıştır:
 
 1. **Veri setindeki müşteri yaşlarının genel dağılımı nedir?**
 2. **Ortalama satın alma tutarı farklı ürün kategorileri arasında nasıl değişir?**
